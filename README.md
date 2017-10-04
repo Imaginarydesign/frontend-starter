@@ -1,13 +1,3 @@
-[![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)]()
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]()
-[![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)]()
-[![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)]()
-[![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)]()
-[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)]()
-[![forthebadge](http://forthebadge.com/images/badges/powered-by-netflix.svg)]()
-[![forthebadge](http://forthebadge.com/images/badges/winter-is-coming.svg)]()
-[![](http://forthebadge.com/images/badges/check-it-out.svg)]()
-
 Project Template
 ========================================
 
@@ -25,23 +15,11 @@ The project template is the way to build static sites fast.  With one command, b
 - Use [Browsersync][browsersync] to automatically launch a development version of our website, reload the page whenever we change the HTML, and inject changes to CSS, JavaScript, and images with needing to reload.
 - Use [HTML Minifier][htmlmin], and optimize our HTML, CSS, JavaScript, and images, respectively.
 
-All with one command from the terminal:
-
-```bash
-yarn start
-```
-
 ## Setup
 
 ```bash
-npm install -g gulp  # May require `sudo`
-```
-
-## Developing
-
-```bash
-yarn install            # One time
-gulp serve
+yarn install
+yarn serve
 ```
 
 ## Reminders
