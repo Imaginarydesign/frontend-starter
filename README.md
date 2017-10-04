@@ -3,13 +3,12 @@ Project Template
 
 #### _Because web development doesn't need to be a pain._
 
-The project template is the way to build static sites fast.  With one command, build a static page using [Webpack][webpack], [Gulp][gulp], [Handlebars.js][handlebars], and [SCSS][scss].
+Project template to build static sites fast using [Webpack][webpack], [Gulp][gulp], [Handlebars.js][handlebars], and [SCSS][scss].
 
 [ES6]
 
 ## Features
 
-- Install the project in just three commands (see "Developing" below).
 - Use [Handlebars.js][handlebars] to keep our HTML organized into templates and partials.
 - Use [SCSS][scss] to keep our CSS organized into logical components.
 - Use [Browsersync][browsersync] to automatically launch a development version of our website, reload the page whenever we change the HTML, and inject changes to CSS, JavaScript, and images with needing to reload.
